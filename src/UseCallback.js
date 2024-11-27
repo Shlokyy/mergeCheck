@@ -14,6 +14,7 @@ const UseCallback = () => {
                 useCallback
                 {number}
             </h1>
+            {console.log("check one")}
             <UseCallBackParaent/>
             <button onClick={updateValue}>Increase</button>
         </>

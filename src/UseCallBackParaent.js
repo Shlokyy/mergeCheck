@@ -4,6 +4,8 @@ const UseCallBackParaent = () => {
             <h1>
                 UseCallBackParaent
             </h1>
+            {console.log("check two")}
+
         </>
     )
 }
