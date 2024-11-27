@@ -5,6 +5,7 @@ const UseCallback = () => {
     const [number, setnumber] = useState(1)
     const updateValue  =useCallback(()=>{
         setnumber(number + 1)
+        console.log("test")
     },[number])
     return (
         <>
