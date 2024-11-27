@@ -9,7 +9,6 @@ import UseCallback from "./UseCallback";
 function App() {
   return (
     <div>
-      
       <h1>hello nagor</h1>
       <h1>hello katch</h1>
       <UseCallback/>
